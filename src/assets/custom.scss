@@ -1,0 +1,12 @@
+$navbar-dark-color: hsla(157, 95%, 64%, 0.788);
+$primary: hsla(157, 95%, 64%, 0.788);
+
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+#app {
+  height: 100vh;
+}
+
+header {
+  margin-bottom: 5.5rem;
+}
